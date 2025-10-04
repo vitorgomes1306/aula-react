@@ -17,6 +17,7 @@
   "homepage": "https://github.com/vitorgomes1306/aula-react#readme",
   "description": "",
   "dependencies": {
+    "bootstrap": "^5.3.8",
     "express": "^5.1.0"
   }
 }
