@@ -1,0 +1,22 @@
+{
+  "name": "aure-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorgomes1306/aula-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorgomes1306/aula-react/issues"
+  },
+  "homepage": "https://github.com/vitorgomes1306/aula-react#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
